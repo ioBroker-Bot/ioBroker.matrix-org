@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "matrix-org",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "news": {
+      "1.2.2": {
+        "en": "string normalisation due to bug report #95\nsome bumbs",
+        "de": "string-normalisierung durch fehlerbericht #95\neinige bumben",
+        "ru": "нормализация строк из-за сообщения об ошибке #95\nнесколько болванов",
+        "pt": "normalização da string devido ao relatório de erros # 95\nalguns vagabundos",
+        "nl": "tekenreeksnormalisatie als gevolg van foutmelding #95\nsommige bumbs",
+        "fr": "normalisation des chaînes en raison du rapport de bogue #95\nquelques omoplates",
+        "it": "normalizzazione della stringa a causa del bug report #95\nalcuni panini",
+        "es": "normalización de cadena debido al reporte de error #95\nalgunos bumbs",
+        "pl": "normalizacja strun z powodu zgłoszenia błędu # 95\nkilka bumbs",
+        "uk": "нормалізація рядків через звіт про помилки #95\nдеякі пудри",
+        "zh-cn": "错误报告 # 95 导致字符串正常化\n一些流浪汉"
+      },
       "1.2.1": {
         "en": "set body in send file to matrix",
         "de": "set body in send file to matrix",
@@ -80,19 +93,6 @@
         "pl": "zeszyty 16\ntranskrypcja",
         "uk": "внизград для вузла 16 мар\nпереклад для конфігурації",
         "zh-cn": "降级 16\n笔译"
-      },
-      "0.1.4": {
-        "en": "update of dependencies\nsmall readme improvement",
-        "de": "aktualisierung der abhängigkeiten\nkleine readme verbesserung",
-        "ru": "обновление зависимостей\nнебольшое улучшение считывания",
-        "pt": "atualização de dependências\npequena melhoria de leitura",
-        "nl": "vertaling:\nkleine verbetering",
-        "fr": "mise à jour des dépendances\npetite amélioration de la lecture",
-        "it": "aggiornamento delle dipendenze\npiccolo miglioramento della lettura",
-        "es": "actualización de las dependencias\npequeña mejora",
-        "pl": "aktualizacja zależności\nulepszenie czytania",
-        "uk": "оновлення залежностей\nневелике поліпшення чителю",
-        "zh-cn": "a. 紧急情况的最新情况\n小读者改进"
       }
     },
     "titleLang": {
